@@ -41,3 +41,9 @@ python3 main.py
 ## License
 
 MIT License
+
+## Usage
+
+```bash
+python3 main.py
+```
